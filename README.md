@@ -7,7 +7,7 @@
 - 🌱 I'm currently learning Back-end and DevOps.
 - 🎓Graduated : Dankook university.
 - 📜Certificated : 멋쟁이사자처럼 & Korea IT backend program in Seoul.
-- 📝 I regularly write articles on [MY BLOG](https://velog.io/@guns95)
+- 📝 I regularly write articles on  <a href="https://velog.io/@guns95"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zeebeck"/></a>
 - My Email is here! 👉 wantsguns95@gmail.com
 
 ## 🛠Skill
