@@ -12,7 +12,7 @@
 <br>
 
 ## 💪🏻 Skills
-<img width="600" alt="gunwoo_stack" src="https://user-images.githubusercontent.com/104709432/236626619-4ba15649-a088-4d9f-b301-f099febbe150.PNG">
+<img width="550" alt="gunwoo_stack" src="https://user-images.githubusercontent.com/104709432/236626619-4ba15649-a088-4d9f-b301-f099febbe150.PNG">
 
 
 <!-- 
