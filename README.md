@@ -5,7 +5,7 @@
 <br />
 
 
- 🌱 I am currently working as a back-end engineer at Food Tech. I usually develop an order relay service.<br>
+ 👨🏻‍💻 I am currently working as a back-end engineer at Food Tech.<br>
  🏙 company : [FoodTech(푸드테크)](https://www.foodtechkorea.com/)<br>
  🎓Graduated : Dankook university.<br>
  📝 I regularly write articles on  <a href="https://velog.io/@guns95"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zeebeck"/></a><br>
