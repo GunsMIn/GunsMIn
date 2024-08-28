@@ -10,7 +10,7 @@
  📝 I regularly write articles on  <a href="https://velog.io/@guns95"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zeebeck"/></a><br>
 
 
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=My-Tech-Blog)]("https://velog.io/@guns95) 
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=My-Tech-Blog)](https://velog.io/@guns95) 
  
 <!-- - 📜Certificated : 멋쟁이사자처럼 & Korea IT backend program in Seoul. -->
 <br>
