@@ -8,6 +8,9 @@
  👨🏻‍💻 I am currently working as a back-end engineer.<br>
  🎓Graduated : Dankook university.<br>
  📝 I regularly write articles on  <a href="https://velog.io/@guns95"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zeebeck"/></a><br>
+
+
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=My-Tech-Blog)]("https://velog.io/@guns95) 
  
 <!-- - 📜Certificated : 멋쟁이사자처럼 & Korea IT backend program in Seoul. -->
 <br>
@@ -44,3 +47,5 @@
 <!-- ## 📊GitHub Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GunsMIn&show_icons=true&theme=transparent)
 </div> -->
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gunwoo4670@gmail.com)](https://velog.io/@guns95/posts)
