@@ -25,6 +25,13 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)</a>
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)</a>
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white)
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=RabbitMQ&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"> 
+<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?flat&logo=Amazon%20EC2&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon%20S3-569A31?flat&logo=Amazon%20S3&logoColor=white">
+<img src="https://img.shields.io/badge/Elasticsearch-005571?flat&logo=Elasticsearch&logoColor=white">
+<img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=Kibana&logoColor=white">
+
 
 <!-- ## 📚Tools
 ![GITHUB](https://img.shields.io/badge/github-181717.svg?style=flat&logo=github&logoColor=white)
