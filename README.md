@@ -7,7 +7,7 @@
 
  👨🏻‍💻 I am currently working as a back-end engineer.<br>
  🎓Graduated : Dankook university.<br>
- 📝 I regularly write articles on   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=My-Tech-Blog)](https://velog.io/@guns95) <br>
+ 📝 I regularly write articles on   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=My-Tech-Blog)](https://velog.io/@guns95/series) <br>
 
 
 
@@ -48,4 +48,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GunsMIn&show_icons=true&theme=transparent)
 </div> -->
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gunwoo4670@gmail.com)](https://velog.io/@guns95/posts)
