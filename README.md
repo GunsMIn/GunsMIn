@@ -5,7 +5,7 @@
 <br />
 
 
- 👨🏻‍💻 I am currently working as a back-end engineer at Food Tech.<br>
+ 👨🏻‍💻 I am currently working as a back-end engineer.<br>
  🎓Graduated : Dankook university.<br>
  📝 I regularly write articles on  <a href="https://velog.io/@guns95"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zeebeck"/></a><br>
  
