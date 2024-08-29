@@ -7,7 +7,9 @@
 
  👨🏻‍💻 I am currently working as a back-end engineer.<br>
  🎓Graduated : Dankook university.<br>
- 📝 I regularly write articles on   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=My-Tech-Blog)](https://velog.io/@guns95/series) <br>
+
+  ## 📝 Tech blog
+ I regularly write articles on   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=My-Tech-Blog)](https://velog.io/@guns95/series) <br>
 
 
 
