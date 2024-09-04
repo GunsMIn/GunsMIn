@@ -11,31 +11,33 @@
   ## 📝 Tech blog
  ### I regularly write articles on    [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=My-Tech-Blog)](https://velog.io/@guns95/series) <br>
 
-
-
- 
-<!-- - 📜Certificated : 멋쟁이사자처럼 & Korea IT backend program in Seoul. -->
-<br>
-<!-- ## 💪🏻 Skills
-<img width="550" alt="gunwoo_stack" src="https://user-images.githubusercontent.com/104709432/236626619-4ba15649-a088-4d9f-b301-f099febbe150.PNG">
- -->
- 
 ## 🛠Skill
+#### Language
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)</a>
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)</a>
+#### Frameworks & Libraries
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)</a>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=JUnit5&logoColor=white"/></a>
+#### Database
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)</a>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"> 
+#### Infrastructure & Tools
+<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?flat&logo=Amazon%20EC2&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon%20S3-569A31?flat&logo=Amazon%20S3&logoColor=white"></a>
+
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)</a>
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white)
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=RabbitMQ&logoColor=white">
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"> 
-<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?flat&logo=Amazon%20EC2&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon%20S3-569A31?flat&logo=Amazon%20S3&logoColor=white">
 <img src="https://img.shields.io/badge/Elasticsearch-005571?flat&logo=Elasticsearch&logoColor=white">
 <img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=Kibana&logoColor=white">
+
+#### Messaging System
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=RabbitMQ&logoColor=white">
+
+
+ 
+
 
 
 <!-- ## 📚Tools
